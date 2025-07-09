@@ -1,2 +1,3 @@
-# mobile-app-analytics
-Engineering &amp; Analytics Pet Project in mobile application domain
+# Engineering and analytics for mobile data
+
+Engineering & Analytics Pet Project in mobile application domain
